@@ -5,6 +5,7 @@ include( 'session/session.php' );
 
 /** BEGIN DEFINE FUNCTIONS **/
 /* 
+ *Woop Woop
  * Prints out the name of the logged in user
  */
 function display_full_name()
